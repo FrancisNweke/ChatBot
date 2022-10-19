@@ -1,0 +1,12 @@
+# pip install torch
+# pip install torchvision
+# pip install nltk
+# pip install numpy -- an alternative for data processing
+# pip install pyttsx3
+
+
+# Project is compatible with these specified package version or greater:
+numpy~=1.21.6
+torch~=1.12.1
+nltk~=3.6.1
+pyttsx3~=2.90
